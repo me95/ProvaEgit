@@ -1,6 +1,7 @@
 
 public class ProvaMain {
- public static void prova(){
+	 private String casa="ciao";
+	public static void prova(){
 	 int a=0;
  }
 }
